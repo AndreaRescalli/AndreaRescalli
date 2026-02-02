@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Andrea Rescalli.
 - 👀 I’m interested in music, technology, literature, hiking and astrophysics.
-- 🌱 I’m currently a PhD candidate in Bioengineering at Politecnico di Milano. I focus my research on new technologies and biosensors, especially related to glycemic control.
-- 📫 How to reach me: andrea.rescalli@polimi.it
+- 📫 How to reach me: andrea.rescalli@humanitasresearch.it
 
 
 <!--- 
